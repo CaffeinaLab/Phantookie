@@ -1,0 +1,13 @@
+{
+  "name": "@caffeina/phantookie",
+  "version": "1.0.0",
+  "dependencies": {
+    "moment": "^2.10.3",
+    "phantom": "^0.7.2",
+    "phantomjs": "^1.9.17",
+    "underscore": "^1.8.3"
+  },
+  "bin": {
+    "phantookie": "./index.js"
+  }
+}

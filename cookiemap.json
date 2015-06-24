@@ -1,0 +1,12 @@
+[
+	{
+		"name": "_ga",
+		"description": "Used to distinguish users",
+		"category": "Profilation"
+	},
+	{
+		"regex": "^__utm",
+		"description": "Google related utilities",
+		"category": "GA"
+	}
+]
